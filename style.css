@@ -1,0 +1,149 @@
+#b1{
+    ;
+}
+
+#heading
+
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    top:3cm;
+}
+#startbutton
+{
+    height:50px;
+    width:200px;
+    border-radius: 20px;
+    border-color: rgb(239, 54, 239);
+    font-size: xx-large;
+    background-color: rgba(230, 35, 171, 0.466);
+    color:white;
+    position: relative;
+    left:45%;
+    top:4cm;
+}
+#NUM
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    position: relative;
+    top:1cm;
+}
+#inputbox
+{
+    height: 30px;
+    width: 250px;
+    border-radius:10px;
+    border-color: solid black;
+    position: relative;
+    left:40%;
+    top: 1cm;
+    font-size: xx-large;
+}
+#sub
+{
+    height: 50px;
+    width: 250px;
+    border-radius:10px;
+    background-color:rgb(128, 109, 0);
+    color:white;
+    border-color: solid black;
+    position: relative;
+    left:20%;
+    top: 3cm;
+    font-size: x-large;
+}
+#reset
+{
+    height: 50px;
+    width: 250px;
+    border-radius:10px;
+    background-color:rgb(84, 57, 88);
+    color:white;
+    border-color: solid black;
+    position: relative;
+    
+    top: 5cm;
+    font-size: x-large;
+}
+#lives
+{
+    color:rgb(151, 13, 13);
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top:200px;
+    right:50px;
+}
+#livecount
+{
+    font-size:30px;
+    text-align:center;
+    position:relative;
+    left:75px;
+    top:137px;
+}
+#suggestion
+{
+    font-size:1cm;
+    position:relative;
+    left:11cm;
+    top:120px;
+    color:rgb(76, 0, 255)
+}
+#b1
+{
+    background-image: url(./assets/chuttersnap-xmPLXZvQIV8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#IMG
+{
+    background-image: url(./assets/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#winpage
+{
+    background-color: rgb(245, 248, 66);
+}
+#win
+{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 4cm;
+
+}
+#bckw
+{
+    margin-left: 16cm;
+    margin-top:-1cm;
+    background-color: rgb(25, 182, 25);
+    color: white;
+    height:50px;
+    width:100px;
+    border-radius: 10%;
+}
+#lostpage
+{
+    background-color: rgb(32, 245, 85);
+}
+#lost
+{
+    font-size: large;
+    text-align: center;
+    margin-top: 2cm;
+}
+#bckl
+{
+    margin-left: 16cm;
+    margin-top:-1cm;
+    background-color: rgb(25, 182, 25);
+    color: white;
+    height:30px;
+    width:100px;
+    border-radius: 10%;
+}
